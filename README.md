@@ -9,6 +9,9 @@ Reducing the cost of running a business while increaseng the livability and prod
 
 ### Skills from the Project
 . Creation and maintenance of Airflow DAGs.
+
 . Capable in Apache Airflow, dbt, redash and a DWH.
+
 . Application of ELT techniques to DWH.
+
 . Building of data pipelines and orchestration workflows.
